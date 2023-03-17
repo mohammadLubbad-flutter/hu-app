@@ -1,0 +1,43 @@
+{
+    "@onBoardingScreen":{
+        "descreption":"onBoardingScreenTexts"
+    },
+    "visionTitle":"Our Vision",
+    "visionBody":"Welcome to hashimate university Students Application , This App Made for Students To See Their Grades And Check They Coursess In Easy And Comfort Way , Our Goal Is To Make The Students Education Trip Usfull And Ful Of Fun .",
+    "continueBtn":"Continue",
+    "@loginScreen":{
+        "descreption":"loginTexts"
+    },
+    "screenTitle":"Login",
+    "backBtn":"Back",
+    "loginBtn":"Login",
+    "errorLogin":"Student Id Or Password Wrong Please Check Them And Try Aggain !!!",
+    "@mainScreen":{
+        "descreption":"mainScreenTexts"
+    },
+    "courseBtn":"Coursess",
+    "gradesBtn":"Grades",
+    "exploreBtn":"Explore",
+    "settingsBtn":"Settings",
+    "logoutBtn":"Logout",
+    "@coursessScreen":{
+        "descreption":"coursessScreenTexts"
+    },
+    "notes":"Notes",
+    "@gradesScreen":{
+        "descreption":"gradesScreenTexts"
+    },
+    "midTerm":"Mid Term :",
+    "assignment":"Assignment :",
+    "finalExam":"Final Exam :",
+    "@SettingsScreen":{
+        "descreption":"SettingsScreenTexts"
+    },
+    "darkModeSw":"Dark Mode",
+    "arabicLangSw":"Arabic",
+    "notificationsSw":"Notifications",
+    "errorScreenMsg":"Oops!! Looks Like Something Went Wrong!!",
+    "invalidEmail":"Invalid-Email",
+    "invalidPassword":"Password Is To Short"
+    
+}

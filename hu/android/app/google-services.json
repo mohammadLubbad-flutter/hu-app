@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "337299537949",
+    "project_id": "hu-stu-app",
+    "storage_bucket": "hu-stu-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337299537949:android:086213c26c0e1c5dd9c6f4",
+        "android_client_info": {
+          "package_name": "com.example.hu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337299537949-qtevsfsu59im9oia1s6niq4q33c5s2gv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW8easMtmGO0zqNxetSoRY5KLRCEVxPFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337299537949-qtevsfsu59im9oia1s6niq4q33c5s2gv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,43 @@
+{
+    "@onBoardingScreen":{
+        "descreption":"onBoardingScreenTexts"
+    },
+    "visionTitle":"رؤيتنا",
+    "visionBody":"مرحبًا بك في تطبيق طلاب الجامعة الهاشمية  ، هذا التطبيق مصمم للطلاب لمعرفة درجاتهم والتحقق من دراستهم بطريقة سهلة ومريحة ، هدفنا هو جعل رحلة تعليم الطلاب مفيدة وممتعة.",
+    "continueBtn":"الاستمرار",
+    "@loginScreen":{
+        "descreption":"loginTexts"
+    },
+    "screenTitle":"تسجيل الدخول",
+    "backBtn":"عودة",
+    "loginBtn":"دخول",
+    "errorLogin":"رقم الطالب او كلمة السر خطا يرجى اعادة المحاولة !!!",
+    "@mainScreen":{
+        "descreption":"mainScreenTexts"
+    },
+    "courseBtn":"المواد",
+    "gradesBtn":"العلامات",
+    "exploreBtn":"اكتشف",
+    "settingsBtn":"الاعدادات",
+    "logoutBtn":"خروج",
+    "@coursessScreen":{
+        "descreption":"coursessScreenTexts"
+    },
+    "notes":"ملاحظات",
+    "@gradesScreen":{
+        "descreption":"gradesScreenTexts"
+    },
+    "midTerm": "الامتحان النصفي : ",
+    "assignment": "الواجبات : ",
+    "finalExam":"الامتحان النهائي : ",
+    "@SettingsScreen":{
+        "descreption":"SettingsScreenTexts"
+    },
+    "darkModeSw":"وضع الظلام",
+    "arabicLangSw":"العربية",
+    "notificationsSw":"الاشعارات",
+      "errorScreenMsg":"اووبس يبدو ان هناك خطا قد حدث",
+      "invalidEmail":"بريد غير صالح",
+    "invalidPassword":"كلمة السر قصيرة جدا "
+    
+}
